@@ -1,0 +1,3 @@
+ypinance
+plotly
+streamlit
